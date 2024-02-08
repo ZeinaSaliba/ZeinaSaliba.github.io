@@ -1,10 +1,12 @@
 # You can do it
 
 ## Believe in yourself
+
 [Watch the video](https://github.com/ZeinaSaliba/gift/blob/main/mane7mar.mp4)
+
 <div align="center">
   <video controls width="52%">
-    <source src="mane7mar.mp4" type="video/mp4">
+    <source src="https://github.com/ZeinaSaliba/gift/blob/main/mane7mar.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
